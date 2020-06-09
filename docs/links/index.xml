@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4.1 on Gegis Links/Notes</title>
+    <link>/links/</link>
+    <description>Recent content in 4.1 on Gegis Links/Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Feb 2019 19:30:08 +1000</lastBuildDate>
+    
+	<atom:link href="/links/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Adjustment</title>
+      <link>/links/adjustment/</link>
+      <pubDate>Mon, 11 Feb 2019 19:30:08 +1000</pubDate>
+      
+      <guid>/links/adjustment/</guid>
+      <description>Adjustment Theory by Mr. Kimwatu .</description>
+    </item>
+    
+  </channel>
+</rss>
